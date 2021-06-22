@@ -1,0 +1,22 @@
+{
+  "name": "cypressexamples",
+  "version": "1.0.0",
+  "description": "Examples from cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveHoneck/cypressExamples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveHoneck/cypressExamples/issues"
+  },
+  "homepage": "https://github.com/SteveHoneck/cypressExamples#readme",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
